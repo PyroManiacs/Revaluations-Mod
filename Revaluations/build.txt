@@ -1,0 +1,4 @@
+author = PyroManiacs
+version = 0.8
+displayName = Revaluations
+homepage = https://discord.gg/NnxAVw

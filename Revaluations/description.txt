@@ -1,0 +1,12 @@
+Revaluations adds a few new things into the game!
+
+-------------------------------------------------
+
+Version - Beta
+
+Added;
+
+- Pickaxes
+- Mage Weapons
+- 3 Sets of Armor
+- An Enemy (Basically a Zombie but harder to kill!)
